@@ -1,20 +1,3 @@
-#-------------------------------------------------------------------------------
-# david_ahlstrom_HA2
-# Student Name: David Ahlstrom
-# Python version: 3.7.8
-# Submission Date: 10/07/2022
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-# violates the ethical guidelines as set forth by the
-# instructor and the class syllabus.
-#-------------------------------------------------------------------------------
-# References: Slides / Assignment instructions
-#-------------------------------------------------------------------------------
-# Notes to grader: 
-#-------------------------------------------------------------------------------
-# Source code below
-#-------------------------------------------------------------------------------
-
 #List class, takes the objects and builds a cart list
 class AddToCart(list):
 
